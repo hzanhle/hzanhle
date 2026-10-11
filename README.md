@@ -23,25 +23,11 @@
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="" width="30" align="center" /> About me
 
-```csharp
-public class HoangAnh : Developer
-{
-    public string   Role        => "Fullstack Developer";
-    public string   Education   => "Software Engineering @ FPT University (Class of 2026)";
-    public string   Location    => "Ho Chi Minh City, Vietnam";
-    public string[] Languages   => ["C#", "TypeScript", "Java", "Python", "Dart"];
-    public string[] Focus       => ["Fullstack Web", "AI-powered Apps", "Cloud (AWS)"];
-    public string   Learning    => "System Design & Cloud Architecture";
-    public string   Goal        => "Ship products that people actually love";
-}
-```
+I'm a fullstack developer based in Ho Chi Minh City, finishing my Software Engineering degree at **FPT University** (class of 2026). Most of my work lives in **C# / .NET** and **TypeScript**: React and Next.js on the front, ASP.NET Core or NestJS behind it.
 
-- Software Engineering @ **FPT University**, graduating in 2026
-- Recently built **HCMRainVision**, an app that watches HCMC traffic cameras to spot rain in real time
-- Leveling up on **AWS** through the First Cloud Journey program
-- Always happy to team up on **fullstack** or **AI-integrated** projects
-- Ask me about **.NET**, **React / Next.js**, or wiring AI into real apps
-- Fun fact: I also build **Roblox games** in Lua
+Lately I've been having fun wiring AI into real products. Most recently that was **HCMRainVision**, which reads public traffic cameras to show where it's raining across the city. I'm also digging deeper into system design and cloud, mostly on **AWS** through the First Cloud Journey program.
+
+When I'm not doing that, I make Roblox games in Lua. If you're building something fullstack or AI-related, I'd love to hear about it.
 
 ---
 

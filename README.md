@@ -3,9 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=230&section=header&text=L%C3%AA%20Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20AI&descSize=18&descAlignY=56" alt="header" width="100%" />
 </p>
 
+<h3 align="center">
+  Hi there, I'm Hoàng Anh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="32" align="center" />
+</h3>
+
 <p align="center">
   <a href="https://github.com/hzanhle">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ho%C3%A0ng+Anh+%F0%9F%91%8B;Fullstack+Developer;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
   </a>
 </p>
 
@@ -17,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="" width="30" align="center" /> About me
 
 ```csharp
 public class HoangAnh : Developer
@@ -32,16 +36,16 @@ public class HoangAnh : Developer
 }
 ```
 
-- 🎓 Software Engineering @ **FPT University** — Class of 2026
-- 🔭 Recently built **HCMRainVision** — real-time rain detection from HCMC traffic cameras using Vision AI
-- ☁️ Leveling up on **AWS** through the First Cloud Journey program
-- 👯 Open to collaborating on **fullstack** and **AI-integrated** projects
-- 💬 Ask me about **.NET**, **React / Next.js**, or wiring AI into real apps
-- ⚡ Fun fact: I also build **Roblox games** in Lua 🎮
+- Software Engineering @ **FPT University**, graduating in 2026
+- Recently built **HCMRainVision**, an app that watches HCMC traffic cameras to spot rain in real time
+- Leveling up on **AWS** through the First Cloud Journey program
+- Always happy to team up on **fullstack** or **AI-integrated** projects
+- Ask me about **.NET**, **React / Next.js**, or wiring AI into real apps
+- Fun fact: I also build **Roblox games** in Lua
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" alt="" width="30" align="center" /> What I work with
 
 <table align="center">
   <tr>
@@ -68,12 +72,12 @@ public class HoangAnh : Developer
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Package/3D/package_3d.png" alt="" width="30" align="center" /> Things I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌧️ HCMRainVision</h3>
+      <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud%20with%20rain/3D/cloud_with_rain_3d.png" alt="" width="26" align="center" /> HCMRainVision</h3>
       <p>Real-time rain &amp; traffic monitoring for Ho Chi Minh City. Crawls public traffic cameras, classifies rain level with Vision AI (Qwen), and pushes live updates to web &amp; mobile via SignalR and FCM.</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -82,10 +86,10 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
       </p>
-      <sub>👥 Team of 2 · Top contributor (46 commits) · 🔒 Private</sub>
+      <sub>Team of 2 · Top contributor (46 commits) · Private repo</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🥋 Martial Arts Tracker</h3>
+      <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Martial%20arts%20uniform/3D/martial_arts_uniform_3d.png" alt="" width="26" align="center" /> Martial Arts Tracker</h3>
       <p>AI-powered martial arts training platform for fighters, coaches and doctors. Videos are analyzed by a YOLO-Pose worker through a Redis job queue to score kicking technique.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -94,12 +98,12 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/BullMQ_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       </p>
-      <sub>👥 Team of 4 · Top contributor (137 commits) · 🔒 Private</sub>
+      <sub>Team of 4 · Top contributor (137 commits) · Private repo</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛵 EV Station-Based Rental</h3>
+      <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Motor%20scooter/3D/motor_scooter_3d.png" alt="" width="26" align="center" /> EV Station-Based Rental</h3>
       <p>Full-stack platform for renting electric vehicles across stations: OTP sign-up, multi-step booking, digital contracts and online payments with VNPay &amp; PayOS.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
@@ -108,10 +112,10 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       </p>
       <a href="https://github.com/hzanhle/SWP391-GROUP2"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
-      <br /><sub>👥 Team of 4 · 113 commits</sub>
+      <br /><sub>Team of 4 · 113 commits</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>♻️ Waste Collection System</h3>
+      <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Recycling%20symbol/3D/recycling_symbol_3d.png" alt="" width="26" align="center" /> Waste Collection System</h3>
       <p>Role-based platform connecting citizens, operators and collectors for urban waste reporting, with AI-assisted waste classification, task tracking and a rewards &amp; vouchers system.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -119,12 +123,12 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
-      <sub>👥 Team of 4 · Top contributor (64 commits) · 🔒 Private</sub>
+      <sub>Team of 4 · Top contributor (64 commits) · Private repo</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🚗 AutoWash</h3>
+      <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Automobile/3D/automobile_3d.png" alt="" width="26" align="center" /> AutoWash</h3>
       <p>Car wash management web app with phone-number sign-in, built on the latest Next.js App Router and a NestJS REST backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -134,14 +138,14 @@ public class HoangAnh : Developer
       </p>
       <a href="https://car-washed-management.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo" /></a>
       <a href="https://github.com/hzanhle/Car_washed_management"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
-      <br /><sub>👥 Team of 3 · Top contributor (38 commits)</sub>
+      <br /><sub>Team of 3 · Top contributor (38 commits)</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" alt="" width="30" align="center" /> GitHub activity
 
 <p align="center">
   <picture>
@@ -181,7 +185,7 @@ public class HoangAnh : Developer
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" alt="" width="30" align="center" /> Contribution snake
 
 <p align="center">
   <picture>

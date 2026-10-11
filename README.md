@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hzanhle&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hzanhle.hzanhle&left_text=Profile%20views&right_color=%237c3aed" alt="profile views" />
   <a href="https://github.com/hzanhle?tab=followers"><img src="https://img.shields.io/github/followers/hzanhle?label=Followers&style=flat-square&color=6366f1&logo=github" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Internship-06b6d4?style=flat-square" alt="open to internship" />
 </p>

@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=230&section=header&text=L%C3%AA%20Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student%20%40%20FPT%20University&descSize=18&descAlignY=56" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=230&section=header&text=L%C3%AA%20Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20AI&descSize=18&descAlignY=56" alt="header" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hzanhle">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ho%C3%A0ng+Anh+%F0%9F%91%8B;Software+Engineering+Student;Fullstack+Developer+in+the+making;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+internship+opportunities" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ho%C3%A0ng+Anh+%F0%9F%91%8B;Fullstack+Developer;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hzanhle.hzanhle&left_text=Profile%20views&right_color=%237c3aed" alt="profile views" />
   <a href="https://github.com/hzanhle?tab=followers"><img src="https://img.shields.io/github/followers/hzanhle?label=Followers&style=flat-square&color=6366f1&logo=github" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internship-06b6d4?style=flat-square" alt="open to internship" />
+  <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-06b6d4?style=flat-square" alt="open to new opportunities" />
 </p>
 
 ---
@@ -22,7 +22,8 @@
 ```csharp
 public class HoangAnh : Developer
 {
-    public string   Role        => "Software Engineering Student @ FPT University";
+    public string   Role        => "Fullstack Developer";
+    public string   Education   => "Software Engineering @ FPT University (Class of 2026)";
     public string   Location    => "Ho Chi Minh City, Vietnam";
     public string[] Languages   => ["C#", "TypeScript", "Java", "Python", "Dart"];
     public string[] Focus       => ["Fullstack Web", "AI-powered Apps", "Cloud (AWS)"];
@@ -31,7 +32,7 @@ public class HoangAnh : Developer
 }
 ```
 
-- 🎓 Software Engineering student at **FPT University**, Ho Chi Minh City
+- 🎓 Software Engineering @ **FPT University** — Class of 2026
 - 🔭 Recently built **HCMRainVision** — real-time rain detection from HCMC traffic cameras using Vision AI
 - ☁️ Leveling up on **AWS** through the First Cloud Journey program
 - 👯 Open to collaborating on **fullstack** and **AI-integrated** projects
@@ -81,7 +82,7 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
       </p>
-      <sub>🔒 Private repository</sub>
+      <sub>👥 Team of 2 · Top contributor (46 commits) · 🔒 Private</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🥋 Martial Arts Tracker</h3>
@@ -93,7 +94,7 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/BullMQ_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       </p>
-      <sub>👥 Team project · Top contributor · 🔒 Private</sub>
+      <sub>👥 Team of 4 · Top contributor (137 commits) · 🔒 Private</sub>
     </td>
   </tr>
   <tr>
@@ -107,6 +108,7 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       </p>
       <a href="https://github.com/hzanhle/SWP391-GROUP2"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
+      <br /><sub>👥 Team of 4 · 113 commits</sub>
     </td>
     <td width="50%" valign="top">
       <h3>♻️ Waste Collection System</h3>
@@ -117,23 +119,11 @@ public class HoangAnh : Developer
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
-      <sub>👥 Team project · 🔒 Private</sub>
+      <sub>👥 Team of 4 · Top contributor (64 commits) · 🔒 Private</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏭 DisruptionSim 4.0</h3>
-      <p>Educational simulation game: steer a Vietnamese garment factory through industrialization and digital transformation over 10 production months.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-      </p>
-      <a href="https://disruptionsim-4-0.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo" /></a>
-      <a href="https://github.com/hzanhle/disruptionsim-4.0"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🚗 AutoWash</h3>
       <p>Car wash management web app with phone-number sign-in, built on the latest Next.js App Router and a NestJS REST backend.</p>
       <p>
@@ -144,6 +134,7 @@ public class HoangAnh : Developer
       </p>
       <a href="https://car-washed-management.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo" /></a>
       <a href="https://github.com/hzanhle/Car_washed_management"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
+      <br /><sub>👥 Team of 3 · Top contributor (38 commits)</sub>
     </td>
   </tr>
 </table>

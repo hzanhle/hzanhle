@@ -127,7 +127,6 @@ When I'm not doing that, I make Roblox games in Lua. If you're building somethin
         <img src="https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
         <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
       </p>
-      <a href="https://car-washed-management.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo" /></a>
       <a href="https://github.com/hzanhle/Car_washed_management"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
       <br /><sub>Team of 3 · Top contributor (38 commits)</sub>
     </td>

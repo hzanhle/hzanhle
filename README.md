@@ -9,12 +9,14 @@
 
 <p align="center">
   <a href="https://github.com/hzanhle">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Exploring+product+management;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hzanhle"><img src="https://img.shields.io/badge/LinkedIn-hzanhle-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC44OTJ2Ni4yNDl6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="https://hzanhle.github.io/pm/"><img src="https://img.shields.io/badge/Product%20portfolio-hzanhle.github.io%2Fpm-2f6db5?style=flat-square" alt="Product portfolio" /></a>
+  <a href="https://hzanhle.github.io/"><img src="https://img.shields.io/badge/Dev%20portfolio-hzanhle.github.io-7c3aed?style=flat-square" alt="Dev portfolio" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hzanhle.hzanhle&left_text=Profile%20views&right_color=%237c3aed" alt="profile views" />
   <a href="https://github.com/hzanhle?tab=followers"><img src="https://img.shields.io/github/followers/hzanhle?label=Followers&style=flat-square&color=6366f1&logo=github" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-06b6d4?style=flat-square" alt="open to new opportunities" />
@@ -27,6 +29,8 @@
 I'm a fullstack developer based in Ho Chi Minh City, finishing my Software Engineering degree at **FPT University** (class of 2026). Most of my work lives in **C# / .NET** and **TypeScript**: React and Next.js on the front, ASP.NET Core or NestJS behind it.
 
 Lately I've been having fun wiring AI into real products. Most recently that was **HCMRainVision**, which reads public traffic cameras to show where it's raining across the city. I'm also digging deeper into system design and cloud, mostly on **AWS** through the First Cloud Journey program.
+
+I'm also moving toward **product management**. I wrote the loyalty and voucher rules for **AutoWash** before we built it, and I co-write the specs for **Medilab**, a lab management system with a 186-story backlog. The product side of my work is at **[hzanhle.github.io/pm](https://hzanhle.github.io/pm/)**.
 
 When I'm not doing that, I make Roblox games in Lua. If you're building something fullstack or AI-related, I'd love to hear about it.
 
@@ -116,7 +120,7 @@ When I'm not doing that, I make Roblox games in Lua. If you're building somethin
   <tr>
     <td colspan="2" valign="top">
       <h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Automobile/3D/automobile_3d.png" alt="" width="26" align="center" /> AutoWash</h3>
-      <p>Car wash management web app with phone-number sign-in, built on the latest Next.js App Router and a NestJS REST backend.</p>
+      <p>Car wash booking app with a loyalty program: tiers, points that expire, and vouchers with usage limits that can't be redeemed twice. Built on the Next.js App Router and a NestJS REST backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />

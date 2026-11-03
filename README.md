@@ -30,7 +30,7 @@ I'm a fullstack developer based in Ho Chi Minh City, finishing my Software Engin
 
 Lately I've been having fun wiring AI into real products. Most recently that was **HCMRainVision**, which reads public traffic cameras to show where it's raining across the city. I'm also digging deeper into system design and cloud, mostly on **AWS** through the First Cloud Journey program.
 
-I'm also moving toward **product management**. I wrote the loyalty and voucher rules for **AutoWash** before we built it, and I co-write the specs for **Medilab**, a lab management system with a 186-story backlog. The product side of my work is at **[hzanhle.github.io/pm](https://hzanhle.github.io/pm/)**.
+I'm also moving toward **product management**. On **AutoWash** I worked on the loyalty and voucher rules before we built them, and on **Medilab**, my capstone lab management system, I help write the inventory and lab specs and then build from them. The product side of my work is at **[hzanhle.github.io/pm](https://hzanhle.github.io/pm/)**.
 
 When I'm not doing that, I make Roblox games in Lua. If you're building something fullstack or AI-related, I'd love to hear about it.
 

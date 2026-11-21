@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=230&section=header&text=L%C3%AA%20Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20AI&descSize=18&descAlignY=56" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=230&section=header&text=L%C3%AA%20Nguy%E1%BB%85n%20Ho%C3%A0ng%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20AI&descSize=18&descAlignY=56" alt="header" width="100%" />
 </p>
 
 <h3 align="center">
@@ -9,14 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/hzanhle">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Exploring+product+management;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;APIs+%C2%B7+Real-time+%C2%B7+Cloud;C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Building+AI-powered+applications;Open+to+new+opportunities" alt="typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hzanhle"><img src="https://img.shields.io/badge/LinkedIn-hzanhle-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC44OTJ2Ni4yNDl6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-  <a href="https://hzanhle.github.io/pm/"><img src="https://img.shields.io/badge/Product%20portfolio-hzanhle.github.io%2Fpm-2f6db5?style=flat-square" alt="Product portfolio" /></a>
-  <a href="https://hzanhle.github.io/"><img src="https://img.shields.io/badge/Dev%20portfolio-hzanhle.github.io-7c3aed?style=flat-square" alt="Dev portfolio" /></a>
+  <a href="https://hzanhle.github.io/"><img src="https://img.shields.io/badge/Portfolio-hzanhle.github.io-7c3aed?style=flat-square" alt="Portfolio" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hzanhle.hzanhle&left_text=Profile%20views&right_color=%237c3aed" alt="profile views" />
   <a href="https://github.com/hzanhle?tab=followers"><img src="https://img.shields.io/github/followers/hzanhle?label=Followers&style=flat-square&color=6366f1&logo=github" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-06b6d4?style=flat-square" alt="open to new opportunities" />
@@ -26,13 +25,13 @@
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="" width="30" align="center" /> About me
 
-I'm a fullstack developer based in Ho Chi Minh City, finishing my Software Engineering degree at **FPT University** (class of 2026). Most of my work lives in **C# / .NET** and **TypeScript**: React and Next.js on the front, ASP.NET Core or NestJS behind it.
+I'm a full-stack developer based in Ho Chi Minh City, finishing my Software Engineering degree at **FPT University** (class of 2026). Most of my work lives in **C# / .NET** and **TypeScript**: React and Next.js on the front, ASP.NET Core or NestJS behind it.
 
 Lately I've been having fun wiring AI into real products. Most recently that was **HCMRainVision**, which reads public traffic cameras to show where it's raining across the city. I'm also digging deeper into system design and cloud, mostly on **AWS** through the First Cloud Journey program.
 
-I'm also moving toward **product management**. On **AutoWash** I worked on the loyalty and voucher rules before we built them, and on **Medilab**, my capstone lab management system, I help write the inventory and lab specs and then build from them. The product side of my work is at **[hzanhle.github.io/pm](https://hzanhle.github.io/pm/)**.
+Right now I'm working on **Medilab**, my capstone lab management system, where I build the inventory and lab modules: database design, APIs and the screens on top of them. Across my team projects I've usually ended up as the top contributor, shipping features like payments (VNPay, PayOS), real-time updates with SignalR, and background job queues with BullMQ and Redis.
 
-When I'm not doing that, I make Roblox games in Lua. If you're building something fullstack or AI-related, I'd love to hear about it.
+When I'm not doing that, I make Roblox games in Lua. If you're building something full-stack or AI-related, I'd love to hear about it.
 
 ---
 
